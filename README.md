@@ -8,16 +8,31 @@
 
 An auto dispatch for when the patients, prisoners or missions are too many! :smiley:
 
-> Is it possible to dispatch vehicles, to own & existing missions?<br>
+> Is it possible to dispatch vehicles to own & alliance missions?<br>
 > <ins>Absolutely - why not?</ins>! „_You can send vehicles in a predefined radius, for all missions or events!_“
 
 > Can patients & prisoners be transported?<br>
 > „_<ins>Of course!</ins> - prisoners or patients will be released if there are no cell's or hospital bed's available!_“
 ### **All versions of the game are supported!**
 ![country-au](https://img.shields.io/badge/AU%3F-yes-green.svg) ![country-br](https://img.shields.io/badge/BR%3F-yes-green.svg) ![country-cz](https://img.shields.io/badge/CZ%3F-yes-green.svg) ![country-de](https://img.shields.io/badge/DE%3F-yes-green.svg) ![country-dk](https://img.shields.io/badge/DK%3F-yes-green.svg) ![country-es](https://img.shields.io/badge/ES%3F-yes-green.svg) ![country-fl](https://img.shields.io/badge/FL%3F-yes-green.svg) ![country-fr](https://img.shields.io/badge/FR%3F-yes-green.svg) ![country-it](https://img.shields.io/badge/IT%3F-yes-green.svg) ![country-jp](https://img.shields.io/badge/JP%3F-yes-green.svg) ![country-kr](https://img.shields.io/badge/KR%3F-yes-green.svg) ![country-mx](https://img.shields.io/badge/MX%3F-yes-green.svg) ![country-nl](https://img.shields.io/badge/NL%3F-yes-green.svg) ![country-no](https://img.shields.io/badge/NO%3F-yes-green.svg)![country-pl](https://img.shields.io/badge/PL%3F-yes-green.svg) ![country-pt](https://img.shields.io/badge/PT%3F-yes-green.svg) ![country-ro](https://img.shields.io/badge/RO%3F-yes-green.svg) ![country-ru](https://img.shields.io/badge/RU%3F-yes-green.svg) ![country-se](https://img.shields.io/badge/SE%3F-yes-green.svg) ![country-sk](https://img.shields.io/badge/SK%3F-yes-green.svg) ![country-tr](https://img.shields.io/badge/TR%3F-yes-green.svg) ![country-ua](https://img.shields.io/badge/UA%3F-yes-green.svg) ![country-uk](https://img.shields.io/badge/UK%3F-yes-green.svg) ![country-us](https://img.shields.io/badge/US%3F-yes-green.svg)
+### Feature Rich Options.
+Many options included like auto hire staff, patient transports, own missions and or alliance missions & events.
+
+### Play your way while offline.
+We have so many different configurations options for timings and options that you can make if play in your own style of play thus looking like your playing while offline.
+
+### Get support on Discord
+Get help from the users community or for the more technical issues we have a ticket system where you can ask the creators. **[Discord](https://discord.com/invite/Ra2RdgHMSb)**
+
+### Automatic Updates.
+New missions are automatically added to our software along with any new vehicle types when added to the game, not to mention our software also.
+
+Enter the following command into the command line to start the bot - switch before into the directory:
+`dotnet /your/location/BotNix.App.dll`
+
 ### How can I use?
 
-Follow this **[link](https://autobots.mysellix.io/)** - Our BOT is not free its a subscription based service and for education purposes 
+ this **[link](https://autobots.mysellix.io/)** - Our BOT is not free its a subscription based service and for education purposes 
 
 # Information
-As a former user of the previous Missionchiefbot and the fact it shut down in January a group of users came together and tried to obtain the original program however the developer refused to release it with that in mind we created our own as close as we could to the orginal, please support us with a subscription as this helps fund adding new features and the recruitment of our freelance programmer in the US who puts our ideas into practice.
+When Missionchiefbot was shut down in January, a group of users came together to try and revive it.  A  former user reached out to the original developer who was unwilling to release the code.  With that being a dead end, we created new code, keeping with the intent of the original.  Subscriptions help us develop new features and retain our programmers who take our ideas and put them into use.
