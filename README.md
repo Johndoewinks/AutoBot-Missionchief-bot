@@ -8,28 +8,27 @@
 
 An auto dispatch for when the patients, prisoners or missions are too many! :smiley:
 
-> Is it possible to dispatch vehicles to own & alliance missions?<br>
-> <ins>Absolutely - why not?</ins>! „_You can send vehicles in a predefined radius, for all missions or events!_“
+> Q: Is it possible to dispatch vehicles to own & alliance missions?<br>
+> A: <ins>Absolutely!</ins>! „_You can send vehicles to ALL missions, shared, your own, or events within a definable radius!_“
 
-> Can patients & prisoners be transported?<br>
-> „_<ins>Of course!</ins> - prisoners or patients will be released if there are no cell's or hospital bed's available!_“
+> Q: Can patients & prisoners be transported?<br>
+> A: „_<ins>Of course!</ins> - Prisoners or patients will be released if there are no cells or hospital beds available!_“
 ### **All versions of the game are supported!**
 ![country-au](https://img.shields.io/badge/AU%3F-yes-green.svg) ![country-br](https://img.shields.io/badge/BR%3F-yes-green.svg) ![country-cz](https://img.shields.io/badge/CZ%3F-yes-green.svg) ![country-de](https://img.shields.io/badge/DE%3F-yes-green.svg) ![country-dk](https://img.shields.io/badge/DK%3F-yes-green.svg) ![country-es](https://img.shields.io/badge/ES%3F-yes-green.svg) ![country-fl](https://img.shields.io/badge/FL%3F-yes-green.svg) ![country-fr](https://img.shields.io/badge/FR%3F-yes-green.svg) ![country-it](https://img.shields.io/badge/IT%3F-yes-green.svg) ![country-jp](https://img.shields.io/badge/JP%3F-yes-green.svg) ![country-kr](https://img.shields.io/badge/KR%3F-yes-green.svg) ![country-mx](https://img.shields.io/badge/MX%3F-yes-green.svg) ![country-nl](https://img.shields.io/badge/NL%3F-yes-green.svg) ![country-no](https://img.shields.io/badge/NO%3F-yes-green.svg)![country-pl](https://img.shields.io/badge/PL%3F-yes-green.svg) ![country-pt](https://img.shields.io/badge/PT%3F-yes-green.svg) ![country-ro](https://img.shields.io/badge/RO%3F-yes-green.svg) ![country-ru](https://img.shields.io/badge/RU%3F-yes-green.svg) ![country-se](https://img.shields.io/badge/SE%3F-yes-green.svg) ![country-sk](https://img.shields.io/badge/SK%3F-yes-green.svg) ![country-tr](https://img.shields.io/badge/TR%3F-yes-green.svg) ![country-ua](https://img.shields.io/badge/UA%3F-yes-green.svg) ![country-uk](https://img.shields.io/badge/UK%3F-yes-green.svg) ![country-us](https://img.shields.io/badge/US%3F-yes-green.svg)
-### Feature Rich Options.
-Many options included like auto hire staff, patient transports, own missions and or alliance missions & events.
+### Rich Feature Options.
+Options include:  hire staff, patient/prisoner transports, support for own missions, and/or alliance missions & events, and more!
 
-### Play your way while offline.
-We have so many different configurations options for timings and options that you can make if play in your own style of play thus looking like your playing while offline.
+### Play your way.
+Set up your own schedule based on how you want to play. Schedule shifts, rotations, continuous, or more!
 
-### Get support on Discord
-Get help from the users community or for the more technical issues we have a ticket system where you can ask the creators. **[Discord](https://discord.com/invite/Ra2RdgHMSb)**
+### Dedicated Discord community and support
+Get help from the user community or use the ticket system for the more technical issue support. **[Discord](https://discord.com/invite/Ra2RdgHMSb)**
 
 ### Automatic Updates.
-New missions are automatically added to our software along with any new vehicle types when added to the game, not to mention our software also.
+Software is automatically updated, by default, keeping you current as new missions and units are implemented or when mission requirements change.
 
-### How can I use?
-
- this **[link](https://autobots.mysellix.io/)** - Our BOT is not free its a subscription based service and for education purposes 
+### How can I find it?
+**[Visit Link](https://autobots.mysellix.io/)** - Our software is a subscription based service and for education purposes only.
 
 # Information
 When Missionchiefbot was shut down in January, a group of users came together to try and revive it.  A  former user reached out to the original developer who was unwilling to release the code.  With that being a dead end, we created new code, keeping with the intent of the original.  Subscriptions help us develop new features and retain our programmers who take our ideas and put them into use.
