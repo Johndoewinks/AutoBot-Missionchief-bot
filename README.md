@@ -27,9 +27,6 @@ Get help from the users community or for the more technical issues we have a tic
 ### Automatic Updates.
 New missions are automatically added to our software along with any new vehicle types when added to the game, not to mention our software also.
 
-Enter the following command into the command line to start the bot - switch before into the directory:
-`dotnet /your/location/BotNix.App.dll`
-
 ### How can I use?
 
  this **[link](https://autobots.mysellix.io/)** - Our BOT is not free its a subscription based service and for education purposes 
