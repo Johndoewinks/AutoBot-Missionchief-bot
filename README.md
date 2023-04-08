@@ -18,3 +18,6 @@ An auto dispatch for when the patients, prisoners or missions are too many! :smi
 ### How can I use?
 
 Follow this **[link](https://autobots.mysellix.io/)** - Our BOT is not free its a subscription based service and for education purposes 
+
+# Information
+As a former user of the previous Missionchiefbot and the fact it shut down in January a group of users came together and tried to obtain the orginal program however the developer refused to release it with that in mind we created our own as close as we could to the orginal, please support us with a subscription as this helps fund adding new features and the recruitment of our freelance programmer in the US who puts our ideas into practice.
