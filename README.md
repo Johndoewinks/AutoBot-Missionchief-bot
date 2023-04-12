@@ -13,6 +13,10 @@ An auto dispatch for when the patients, prisoners or missions are too many! :smi
 
 > Q: Can patients & prisoners be transported?<br>
 > A: <ins>Of course!</ins> - „_Prisoners or patients will be released if there are no cells or hospital beds available!_“
+
+### Our Software
+Our software status as of 1st April 2023 is currently online you can check its status here -> ![status](https://badgen.net/badge/Status/Online/green)
+
 ### **All versions of the game are supported!**
 ![country-au](https://img.shields.io/badge/AU%3F-yes-green.svg) ![country-br](https://img.shields.io/badge/BR%3F-yes-green.svg) ![country-cz](https://img.shields.io/badge/CZ%3F-yes-green.svg) ![country-de](https://img.shields.io/badge/DE%3F-yes-green.svg) ![country-dk](https://img.shields.io/badge/DK%3F-yes-green.svg) ![country-es](https://img.shields.io/badge/ES%3F-yes-green.svg) ![country-fl](https://img.shields.io/badge/FL%3F-yes-green.svg) ![country-fr](https://img.shields.io/badge/FR%3F-yes-green.svg) ![country-it](https://img.shields.io/badge/IT%3F-yes-green.svg) ![country-jp](https://img.shields.io/badge/JP%3F-yes-green.svg) ![country-kr](https://img.shields.io/badge/KR%3F-yes-green.svg) ![country-mx](https://img.shields.io/badge/MX%3F-yes-green.svg) ![country-nl](https://img.shields.io/badge/NL%3F-yes-green.svg) ![country-no](https://img.shields.io/badge/NO%3F-yes-green.svg)![country-pl](https://img.shields.io/badge/PL%3F-yes-green.svg) ![country-pt](https://img.shields.io/badge/PT%3F-yes-green.svg) ![country-ro](https://img.shields.io/badge/RO%3F-yes-green.svg) ![country-ru](https://img.shields.io/badge/RU%3F-yes-green.svg) ![country-se](https://img.shields.io/badge/SE%3F-yes-green.svg) ![country-sk](https://img.shields.io/badge/SK%3F-yes-green.svg) ![country-tr](https://img.shields.io/badge/TR%3F-yes-green.svg) ![country-ua](https://img.shields.io/badge/UA%3F-yes-green.svg) ![country-uk](https://img.shields.io/badge/UK%3F-yes-green.svg) ![country-us](https://img.shields.io/badge/US%3F-yes-green.svg)
 ### Rich Feature Options.
@@ -22,7 +26,9 @@ Options include:  hire staff, patient/prisoner transports, support for own missi
 Set up your own schedule based on how you want to play. Schedule shifts, rotations, continuous, or more!
 
 ### Dedicated Discord community and support
-Get help from the user community or use the ticket system for the more technical issue support. **[Discord](https://discord.com/invite/Ra2RdgHMSb)**
+Get help from the user community or use the ticket system for the more technical issue support. Our Discord protects members by only showing people of the same role thus looking as though we are inactive however we are active.<br>
+**[Click Here For Discord](https://discord.com/invite/Ra2RdgHMSb)** ![Discord](https://img.shields.io/discord/1073035059810021406.svg?label=AutoBot&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)<br>
+**[Click Here For Website](https://autobots.mysellix.io/)** ![status](https://badgen.net/badge/Status/Online/green)
 
 ### Automatic Updates.
 Software is automatically updated, by default, keeping you current as new missions and units are implemented or when mission requirements change.
